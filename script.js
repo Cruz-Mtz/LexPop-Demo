@@ -1,6 +1,5 @@
-const WA_NUMBER = "524771234567";
+const WA_NUMBER = "524771915327";
 
-// ===== PRODUCTS DATA =====
 const products = [
   {
     id: 1,
